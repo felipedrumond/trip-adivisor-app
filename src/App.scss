@@ -1,0 +1,51 @@
+@import 'styles/colors';
+@import 'styles/typography';
+
+.App {
+  background: $color-light-grey;
+  padding: 20px 40px 20px 40px;
+  color: $color-primary;
+}
+
+.dark {
+  background: $color-dark-grey;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+h1 {
+  font-size: $fontSize-large;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: $fontSize-regular;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: $fontSize-small;
+  font-weight: 300;
+}
+
+.content-container {
+  background-color: $color-white;
+  padding: 20px;
+  margin-top: 20px;
+  min-width: 300px;
+}
+
+input {
+  border: 1px solid $color-light-blue;
+}
+
+input[type=text] {
+  width: 20%;
+  height: 25px;
+}
+
+input:focus {
+  border: 1px solid $color-light-blue;
+}
