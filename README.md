@@ -1,6 +1,6 @@
 # Trip Advisor
 
-![Trip Advisor](/images/Trip Advisor app.jpg)
+![Trip Advisor](/images/trip-advisor-app.jpg)
 
 # Getting Started with Create React App
 
